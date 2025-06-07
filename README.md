@@ -171,4 +171,4 @@ The ESP32 can connect to the WiFi network with IP address 10.13.37.2 and also su
 <img width="1020" alt="1" src="https://github.com/user-attachments/assets/21395080-218c-44b0-9ab9-525b99906c3b" />
 
 
-For more details, please follow the implementation steps in the Weather API check report (pdf).
+For more details, please follow the implementation steps in the MQTT check report (pdf).
